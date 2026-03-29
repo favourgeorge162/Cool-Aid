@@ -1,8 +1,8 @@
 # Medical-Aids
 
-Medical aid—often called health insurance or health coverage—helps individuals and families pay for the cost of medical care. It can be provided by governments, private insurers, or non‑profit organizations, and it typically covers a range of services such as doctor visits, hospital stays, prescription drugs, and preventive care.
+Medical aid—often called health insurance or health coverage helps individuals and families pay for the cost of medical care. It can be provided by governments, private insurers, or non‑profit organizations, and it typically covers a range of services such as doctor visits, hospital stays, prescription drugs, and preventive care.
 
-Key components of a medical‑aid plan
+## Key components of a medical‑aid plan
 
 Coverage scope – What types of services are included (e.g., primary care, specialist visits, emergency care, mental‑health services).
 Cost‑sharing – How expenses are split between the insurer and the enrollee (premiums, deductibles, co‑pays, co‑insurance).
